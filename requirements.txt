@@ -1,0 +1,13 @@
+﻿httpx
+langchain
+langchain-core
+langchain-openai
+langgraph
+langgraph-checkpoint
+matplotlib
+numpy
+pandas
+pydantic
+python-dotenv
+requests
+smolagents
